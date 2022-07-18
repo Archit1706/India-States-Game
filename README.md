@@ -1,2 +1,2 @@
 # India-States-Game
-Guess the State!
+Guess the States of India!
