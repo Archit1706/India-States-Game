@@ -1,7 +1,7 @@
 # India-States-Game
 Guess the States of India!
 
-### Play Here - [Mr. States]()
+### Play Here - [Mr. States](https://replit.com/@ArchitRathod1/India-States-Game)
 
 ### Sample 
 
